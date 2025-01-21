@@ -5,6 +5,6 @@ public class helloworld {
 
         System.out.println("namaste");
 
-        // Close the scanner to prevent resource leak
+        
     }
 }
