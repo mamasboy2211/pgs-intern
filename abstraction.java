@@ -12,7 +12,6 @@ class tennis extends dorothy {
 }
 
 class pickleball extends dorothy {
-    // Implementing abstract method
     public void sport() {
         System.out.println("pickleball pro");
     }
