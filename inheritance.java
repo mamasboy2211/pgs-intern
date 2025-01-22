@@ -19,7 +19,7 @@ class Main{
         Tennis t1 = new Tennis();
         Tennis t2 = new Tennis();
 
-        t1.player ("Novak Djokovic", 6);
+        t1.player ("Novak Djokovic", 7);
         t2.player ("Jannik Sinner", 1);
 
         t1.display();
